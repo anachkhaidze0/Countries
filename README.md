@@ -1,4 +1,4 @@
-With Countries app you can search different countries and see info(capital, area, weather, etc.) about them.
+With Countries app you can search different countries and see info about them, like capital, area, weather, etc.
 
 App is built with ReactJS and TailwindCSS
 
